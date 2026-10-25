@@ -1,6 +1,5 @@
 // вариант 21
 
-#include <iostream>
 #include <utility>
 #include "vector.h"
 #include <fstream>
